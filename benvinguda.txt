@@ -4,3 +4,4 @@ alan
 (C) Benvinguda a la branca 02 Alan
 (D) Modificacio 02 Main Alan
 (E) Afegim imatge a branca01
+(F) Afegim imatge a branca02
